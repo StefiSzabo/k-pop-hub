@@ -4,12 +4,7 @@
   "private": true,
   "dependencies": {
     "@babel/plugin-transform-private-methods": "^7.25.4",
-    "@emotion/react": "^11.13.3",
-    "@emotion/styled": "^11.13.0",
-    "@fontsource/roboto": "^5.0.14",
     "@material/web": "^2.1.0",
-    "@mui/icons-material": "^6.0.2",
-    "@mui/material": "^6.0.2",
     "@rollup/plugin-terser": "^0.4.4",
     "@testing-library/jest-dom": "^6.5.0",
     "@testing-library/react": "^16.0.1",
